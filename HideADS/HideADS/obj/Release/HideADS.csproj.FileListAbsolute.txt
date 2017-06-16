@@ -1,0 +1,11 @@
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\bin\Release\HideADS.exe.config
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\bin\Release\HideADS.exe
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\bin\Release\HideADS.pdb
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\bin\Release\CodeFluent.Runtime.Client.dll
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\bin\Release\CodeFluent.Runtime.Client.xml
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\obj\Release\HideADS.csprojResolveAssemblyReference.cache
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\obj\Release\HideADS.Form1.resources
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\obj\Release\HideADS.Properties.Resources.resources
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\obj\Release\HideADS.csproj.GenerateResource.Cache
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\obj\Release\HideADS.exe
+C:\Users\luca.consolati\Documents\Visual Studio 2015\Projects\HideADS\HideADS\obj\Release\HideADS.pdb
